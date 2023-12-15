@@ -1,4 +1,4 @@
-import Example from "../../data/Example.mdx";
+import Example from "../../data/ExampleWithStyles.mdx";
 
 type Props = {};
 
