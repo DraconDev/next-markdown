@@ -1,11 +1,11 @@
-import Example from "../../data/ExampleWithStyles.mdx";
+import ExampleWithStyles from "../../data/ExampleWithStyles.mdx";
 
 type Props = {};
 
 const ExamplePage = (props: Props) => {
     return (
-        <div className="bg-red-500 text-lg">
-            <Example />
+        <div className="text-xl p-4">
+            <ExampleWithStyles />
         </div>
     );
 };
